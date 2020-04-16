@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:0 tvg-name="EUROCHANNEL" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-eurochannel.png" tvg-ID="" group-title="ENTRETENIMIENTO",EUROCHANNEL
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/57
+#EXTINF:0 tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" tvg-ID="" group-title="ENTRETENIMIENTO",TNT
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/59
+#EXTINF:0 tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1024px-Logo_Studio_Universal.svg.png" tvg-ID="" group-title="ENTRETENIMIENTO",STUDIO UNIVERSAL
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/58
+#EXTINF:0 tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" tvg-ID="AXN" group-title="ENTRETENIMIENTO",AXN
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/61
+#EXTINF:0 tvg-name="FXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/751px-FXX_Logo.svg.png" tvg-ID="" group-title="ENTRETENIMIENTO",FXX
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/60
+#EXTINF:0 tvg-name="CANAL FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png" tvg-ID="" group-title="ENTRETENIMIENTO",CANAL FOX
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/64
+#EXTINF:0 tvg-name="AMC ESP" tvg-logo="Logo N/A" tvg-ID="" group-title="ENTRETENIMIENTO",AMC ESP
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/62
+#EXTINF:0 tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png" tvg-ID="" group-title="ENTRETENIMIENTO",FX
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/66
+#EXTINF:0 tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/24/Syfy_logo.svg/1280px-Syfy_logo.svg.png" tvg-ID="" group-title="ENTRETENIMIENTO",SYFY
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/68
+#EXTINF:0 tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" tvg-ID="" group-title="ENTRETENIMIENTO",CINEMAX
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/73
+#EXTINF:0 tvg-name="CINE CANAL" tvg-logo="http://eltecsa.com/logos/Cinecanal.png" tvg-ID="" group-title="ENTRETENIMIENTO",CINE CANAL
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/76
+#EXTINF:0 tvg-name="FXM" tvg-logo="https://i.imgur.com/Kmhdy7k.png" tvg-ID="" group-title="ENTRETENIMIENTO",FXM
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/80
+#EXTINF:0 tvg-name="FOX SERIES PREMIUM" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1e/Fox_Premium_2018_vertical_logo.svg/revision/latest/scale-to-width-down/250?cb=20181107002941" tvg-ID="" group-title="ENTRETENIMIENTO",FOX SERIES PREMIUM
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/81
+#EXTINF:0 tvg-name="FOX MOVIES" tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" tvg-ID="" group-title="ENTRETENIMIENTO",FOX MOVIES
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/82
+#EXTINF:0 tvg-name="FOX ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png" tvg-ID="" group-title="ENTRETENIMIENTO",FOX ACTION
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/87
+#EXTINF:0 tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" tvg-ID="" group-title="ENTRETENIMIENTO",HBO 2
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/88
+#EXTINF:0 tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" tvg-ID="" group-title="ENTRETENIMIENTO",HBO FAMILY
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/92
+#EXTINF:0 tvg-name="HBO 1" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_black.png" tvg-ID="" group-title="ENTRETENIMIENTO",HBO 1
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/91
+#EXTINF:0 tvg-name="FOX LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" tvg-ID="" group-title="ENTRETENIMIENTO",FOX LIFE
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/102
+#EXTINF:0 tvg-name="DISCOVERY CHANNEL" tvg-logo="https://imgur.com/a/UwBieht" tvg-ID="" group-title="CULTURA",DISCOVERY CHANNEL
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/488
+#EXTINF:0 tvg-name="DISCOVERY H&H" tvg-logo="https://imgur.com/a/qcYpRxW" tvg-ID="" group-title="CULTURA",DISCOVERY H&H
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/489
+#EXTINF:0 tvg-name="HISTORY" tvg-logo="https://imgur.com/a/fVTJWuI" tvg-ID="" group-title="CULTURA",HISTORY
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/494
+#EXTINF:0 tvg-name="NATGEO WILD" tvg-logo="https://imgur.com/a/BlMqaEm" tvg-ID="" group-title="CULTURA",NATGEO WILD
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/495
+#EXTINF:0 tvg-name="A&E" tvg-logo="https://i.imgur.com/OvT2KuQ.jpg" tvg-ID="A&E" group-title="CULTURA",A&E
+http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/63
